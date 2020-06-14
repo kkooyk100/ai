@@ -2,3 +2,7 @@
 
 ## 1주차 과제 (05.21)
  [-1주차](https://github.com/kkooyk100/ai/blob/master/ai%EA%B3%BC%EC%A0%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B81.ipynb)
+ 
+
+## 2주차 과제 (05.21)
+ [-2주차](https://github.com/kkooyk100/ai/blob/master/ai%EA%B3%BC%EC%A0%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B81.ipynb)
