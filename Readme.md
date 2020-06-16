@@ -6,3 +6,11 @@
 
 ## 2주차 과제 (05.28)
  [-2주차](https://github.com/kkooyk100/ai/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
+ 
+ 
+## 3주차 과제 (06.04)
+ [-3주차](https://github.com/kkooyk100/ai/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+ 
+ 
+## 4주차 과제 (06.11)
+ [-4주차](https://github.com/kkooyk100/ai/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
